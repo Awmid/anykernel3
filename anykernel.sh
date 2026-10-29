@@ -14,6 +14,7 @@ device.name2=angelica
 device.name3=angelican
 device.name4=angelicain
 device.name5=cattail
+device.name6=blossom
 '; }
 
 ### AnyKernel install
